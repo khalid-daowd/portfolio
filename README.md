@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 > Startup [repository link](https://github.com/khalid-daowd/portfolio)
 
-## You Learn
+## Tech I Used
 
 - react js hooks
 - folder structure
